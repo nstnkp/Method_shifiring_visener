@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.exe
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.deps.json
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.runtimeconfig.json
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.dll
+C:\Users\ASUS\source\repos\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.pdb
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.dll
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.pdb
+C:\Users\ASUS\source\repos\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.genruntimeconfig.cache
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.exe
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.deps.json
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.runtimeconfig.json
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.runtimeconfig.dev.json
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.dll
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\bin\Debug\netcoreapp3.1\C_V.pdb
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.csprojAssemblyReference.cache
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.AssemblyInfoInputs.cache
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.AssemblyInfo.cs
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.csproj.CoreCompileInputs.cache
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.dll
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.pdb
+C:\Users\artik\OneDrive\Рабочий стол\C_V\C_V\obj\Debug\netcoreapp3.1\C_V.genruntimeconfig.cache
